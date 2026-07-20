@@ -92,18 +92,18 @@ button:hover{
 
 @keyframes slider{
     0%,15%{
-        background-image:url("images/home1.jpg");
+        background-image:url("home1.jpg");
     }
     25%,40%{
-        background-image:url("images/home2.jpg")
+        background-image:url("home2.jpg")
     }
     55%,70%{
-        background-image:url("images/home3.jpg")
+        background-image:url("home3.jpg")
     }
     77%,90%{
-        background-image:url("images/house2.png")
+        background-image:url("house2.png")
     }
     95%,100%{
-        background-image:url("images/house1.png")
+        background-image:url("house1.png")
     }
 }
